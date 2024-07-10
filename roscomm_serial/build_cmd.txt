@@ -1,0 +1,1 @@
+roscomm_serial : catkin_make -DSERIAL_LIBRARY_PATH=$HOME/Workspace/_sw/serial/build/devel install
